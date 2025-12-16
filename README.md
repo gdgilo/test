@@ -65,7 +65,7 @@ Once the multi-character input executes its last input or until an invalid input
 
 The controls are case-insensitive.
 
-### Object Functions
+### Objects and Tiles
 | Emoji | ASCII | Description |
 | :---: | :--- | :--- |
 | "🧑" | L | This is the character you are controlling |
@@ -84,6 +84,34 @@ The controls are case-insensitive.
 | "🪨" | R | A movable obstacle as long the a free space tile or a water tile is in front. Otherwise immovable.|
 | "🟦" | ~ | If the player moves into this tile, they lose.|
 | "⬜" | _ | If a rock gets pushed to this tile, a paved tile is created. Acts the same way as a free space tile.|
+### Main Menu
+
+
+<img width="342" height="173" alt="image" src="https://github.com/user-attachments/assets/104466b5-11dd-4ae9-94e3-bef9a57d8682" />
+
+
+In here, the user can access the 8 main levels of our game as well as the leaderboard, which can be accessed by going to the 9 tile. Each of the 8 levels have been designed to be very challenging and fun!
+
+### Leaderboard
+
+
+<img width="648" height="615" alt="image" src="https://github.com/user-attachments/assets/17afa55d-a26e-4c7c-9f28-75194d3eef76" />
+
+
+### Levels
+
+#### Level 1
+
+
+<img width="381" height="227" alt="image" src="https://github.com/user-attachments/assets/9e4b97f5-d99f-4c71-ae79-b02733e970f4" />
+
+
+#### Level 2
+
+
+<img width="200" height="312" alt="image" src="https://github.com/user-attachments/assets/b67ec20a-3e5c-4ee6-a18a-f19143881692" />
+
+
 
 
 ## Code 
