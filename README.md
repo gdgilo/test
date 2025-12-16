@@ -112,6 +112,40 @@ In here, the user can access the 8 main levels of our game as well as the leader
 <img width="200" height="312" alt="image" src="https://github.com/user-attachments/assets/b67ec20a-3e5c-4ee6-a18a-f19143881692" />
 
 
+#### Level 3
+
+
+<img width="146" height="228" alt="image" src="https://github.com/user-attachments/assets/381f7bde-823f-4280-9510-b71d36a3ba2c" />
+
+
+#### Level 4
+
+
+<img width="177" height="200" alt="image" src="https://github.com/user-attachments/assets/5ebafcf4-0d6b-4015-b30e-b2739cf61487" />
+
+
+#### Level 5
+
+
+<img width="377" height="333" alt="image" src="https://github.com/user-attachments/assets/9af3b3b0-0867-42f1-978f-271589f709c5" />
+
+
+#### Level 6
+
+
+<img width="396" height="490" alt="image" src="https://github.com/user-attachments/assets/fbfe3533-c8f2-43a1-88b1-cf9fe9dca7fb" />
+
+
+#### Level 7
+
+
+<img width="395" height="487" alt="image" src="https://github.com/user-attachments/assets/5b048c82-c057-4592-93a3-7b77377ec491" />
+
+
+#### Level 8
+
+
+<img width="542" height="662" alt="image" src="https://github.com/user-attachments/assets/51dfd054-468a-4eb4-b586-b6e71ee40c0d" />
 
 
 ## Code 
