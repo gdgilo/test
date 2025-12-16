@@ -157,6 +157,11 @@ then, start index.html
 start index.html
 ```
 
+
+<img width="1895" height="857" alt="image" src="https://github.com/user-attachments/assets/24461c01-4397-42ea-a23f-98a5e6fbc2f6" />
+
+
+
 ## Code 
 
 ### Gameplay `gameplay.py`
